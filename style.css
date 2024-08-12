@@ -197,6 +197,10 @@ main {
     font-weight: 400;
 }
 
+.terceira-secao a {
+    text-decoration: none;
+}
+
 @media(min-width: 1110px) {
 
     header > button {
